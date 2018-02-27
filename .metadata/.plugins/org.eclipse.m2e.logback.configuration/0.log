@@ -19,3 +19,19 @@
 2018-02-27 15:04:25,111 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tyss/Desktop/DemoGit/Demo/src/main/resources
 2018-02-27 15:04:25,115 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-02-27 15:04:25,116 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tyss/Desktop/DemoGit/Demo/src/test/resources
+2018-02-27 15:06:37,064 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 15:06:37,064 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tyss/Desktop/DemoGit/Demo/src/main/resources
+2018-02-27 15:06:37,067 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 15:06:37,067 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tyss/Desktop/DemoGit/Demo/src/test/resources
+2018-02-27 15:06:38,147 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 15:06:38,147 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tyss/Desktop/DemoGit/Demo/src/main/resources
+2018-02-27 15:06:38,148 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 15:06:38,149 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tyss/Desktop/DemoGit/Demo/src/test/resources
+2018-02-27 15:07:42,594 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 15:07:42,594 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tyss/Desktop/DemoGit/Demo/src/main/resources
+2018-02-27 15:07:42,596 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 15:07:42,597 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tyss/Desktop/DemoGit/Demo/src/test/resources
+2018-02-27 15:08:49,562 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 15:08:49,562 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tyss/Desktop/DemoGit/Demo/src/main/resources
+2018-02-27 15:08:49,564 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-02-27 15:08:49,564 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tyss/Desktop/DemoGit/Demo/src/test/resources
